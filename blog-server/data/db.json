@@ -1,0 +1,366 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Adi Toma",
+      "username": "Adi_Toma",
+      "email": "Adi.Toma@april@biz.com"
+    },
+    {
+      "id": 2,
+      "name": "Elena Popescu",
+      "username": "Elena_Popescu",
+      "email": "Elena.Popescu@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Clementina Bauch",
+      "username": "Clementina_Bauch",
+      "email": "Clementina.Bauch@test.com"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Patricia_Lebsack",
+      "email": "Patricia.Lebsack@ong.com"
+    },
+    {
+      "id": 5,
+      "name": "Crina Manole",
+      "username": "Crina_Manole",
+      "email": "Crina.Manole@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Dennis Schulist",
+      "username": "Dennis_Schulist",
+      "email": "Dennis.Schulist@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Kurtis_Weissnat",
+      "email": "Kurtis.Weissnat@yahoo.com"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir",
+      "username": "Nicholas_Runolfsdottir",
+      "email": "Nicholas.Runolfsdottir@ymail.com"
+    },
+    {
+      "id": 9,
+      "name": "Marius Mitica",
+      "username": "Marius_Mitica",
+      "email": "Marius_Mitica@asmi.com"
+    },
+    {
+      "id": 10,
+      "name": "Carmina DuBuque",
+      "username": "Carmina_DuBuque",
+      "email": "Carmina.DuBuque@asub.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": "2",
+      "title": "Ensemble Excellence: SAG Awards 2024 Spotlights Outstanding Performances",
+      "body": "The Screen Actors Guild (SAG) Awards 2024 shine a light on outstanding ensemble performances, recognizing the collaborative brilliance of actors in the film and television industry.",
+      "userId": 10,
+      "date": "2024-01-08T20:40:00.000Z",
+      "reactions": {
+        "thumbsUp": 3,
+        "wow": 2,
+        "cry": 0,
+        "heart": 2
+      }
+    },
+    {
+      "id": "3",
+      "title": "British Music Glory: BRIT Awards 2023 Showcases Iconic Moments",
+      "body": "The BRIT Awards 2023 celebrate the excellence of British music, unfolding iconic moments that resonate with music enthusiasts worldwide.",
+      "userId": 10,
+      "date": "2023-02-15T16:55:00.000Z"
+    },
+    {
+      "id": "5",
+      "title": "Pop Culture Triumph: MTV Movie & TV Awards 2024 Winners Revealed",
+      "body": "The MTV Movie & TV Awards 2024 recognize pop culture phenomena, honoring the most influential and entertaining contributions to the screen.",
+      "userId": 9,
+      "date": "2022-04-02T22:10:00.000Z"
+    },
+    {
+      "id": "6",
+      "title": "Broadway Brilliance: Tony Awards Showcase Unforgettable Performances",
+      "body": "The Tony Awards shine a spotlight on Broadway's best, featuring unforgettable performances that captivate audiences and celebrate theatrical excellence.",
+      "userId": 8,
+      "date": "2023-06-25T14:20:00.000Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 1,
+        "cry": 2,
+        "heart": 0
+      }
+    },
+    {
+      "id": "7",
+      "title": "Television Excellence Rewarded: Emmys 2024 Winners Announced",
+      "body": "The Emmys 2024 applaud outstanding television achievements, recognizing the talented individuals who contribute to the small screen's magic.",
+      "userId": 7,
+      "date": "2024-01-12T17:30:00.000Z"
+    },
+    {
+      "id": "8",
+      "title": "Fan-Centric Celebration: People's Choice Awards Highlights Fan Favorites",
+      "body": "The People's Choice Awards dazzle as fan favorites steal the show on the red carpet, creating an unforgettable night of celebration.",
+      "userId": 6,
+      "date": "2023-11-05T19:45:00.000Z"
+    },
+    {
+      "id": "9",
+      "title": "Awards: Outstanding Achievements at the Oscars",
+      "body": "The Oscars celebrated outstanding achievements in the film industry, honoring talented actors, directors, and creative professionals.",
+      "userId": 4,
+      "date": "2024-01-10T23:24:19.248Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "cry": 0,
+        "heart": 1
+      }
+    },
+    {
+      "id": "10",
+      "title": "Television Excellence: Critics Choice Awards Celebrate Drama and Comedy",
+      "body": "Outstanding performances in both drama and comedy take the spotlight at the Critics Choice Awards, honoring TV's finest talents.",
+      "userId": 5,
+      "date": "2023-08-20T21:00:00.000Z",
+      "reactions": {
+        "thumbsUp": 1,
+        "wow": 3,
+        "cry": 1,
+        "heart": 1
+      }
+    },
+    {
+      "id": "11",
+      "title": "Glittering Night: Golden Globes 2024 Host Revealed",
+      "body": "Excitement is in the air as the Golden Globes announces the charismatic host for the upcoming 2024 awards ceremony.",
+      "userId": 4,
+      "date": "2024-01-01T09:15:00.000Z"
+    },
+    {
+      "id": "12",
+      "title": "Cinema: 'La Berlinală, Filmul Românesc În Lumina Reflectoarelor'",
+      "body": "Filmele românești strălucesc la Festivalul de Film de la Berlin, aducând recunoaștere internațională industriei cinematografice locale.",
+      "userId": 5,
+      "date": "2022-02-22T23:33:19.248Z"
+    },
+    {
+      "id": "13",
+      "title": "Film Industry Triumph: Oscars 2023 Nominations Unveiled",
+      "body": "Diversity takes center stage as the Oscars 2023 nominations showcase a wide range of outstanding films from various genres.",
+      "userId": 3,
+      "date": "2023-01-15T12:30:00.000Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 1,
+        "cry": 0,
+        "heart": 1
+      }
+    },
+    {
+      "id": "14",
+      "title": "Music Excellence: Grammys 2023 Winners Revealed",
+      "body": "The Grammys 2023 celebrated musical brilliance, with breakout stars stealing the spotlight and taking home prestigious awards.",
+      "userId": 2,
+      "date": "2023-02-28T18:45:00.000Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "cry": 2,
+        "heart": 2
+      }
+    },
+    {
+      "id": "15",
+      "title": "Global Cinematic Excellence: Cannes Film Festival 2023 Highlights",
+      "body": "The Cannes Film Festival 2023 celebrates international cinematic excellence, bringing together filmmakers and artists from around the world.",
+      "userId": 1,
+      "date": "2023-05-20T14:00:00.000Z"
+    },
+    {
+      "id": "16",
+      "title": "Awards: Stellar Performances Shine at the Grammys",
+      "body": "The Grammys showcased stellar performances, celebrating the best in the music industry and recognizing outstanding talents.",
+      "userId": 10,
+      "date": "2022-03-12T23:45:19.248Z",
+      "reactions": {
+        "thumbsUp": 2,
+        "wow": 2,
+        "cry": 0,
+        "heart": 0
+      }
+    },
+    {
+      "id": "17",
+      "title": "British Excellence in Film & TV: BAFTA Awards 2023 Recap",
+      "body": "The BAFTA Awards 2023 showcase the best of British film and television, recognizing exceptional talent and storytelling.",
+      "userId": 3,
+      "date": "2023-03-12T17:45:00.000Z"
+    },
+    {
+      "id": "18",
+      "title": "Youthful Talent on Display: Teen Choice Awards 2024 Highlights",
+      "body": "The Teen Choice Awards 2024 shine a spotlight on young stars, celebrating their contributions to entertainment and pop culture.",
+      "userId": 9,
+      "date": "2023-12-15T21:15:00.000Z"
+    },
+    {
+      "id": "19",
+      "title": "Musical Triumph: iHeartRadio Music Awards 2023 Winners Announced",
+      "body": "Chart-topping artists and beloved tunes dominate the iHeartRadio Music Awards 2023, showcasing the best in the music industry.",
+      "userId": 8,
+      "date": "2022-04-05T23:10:00.000Z"
+    },
+    {
+      "id": "20",
+      "title": "Film: Acclaim for Romanian Director's Artistic Vision",
+      "body": "A Romanian director receives international acclaim for their artistic vision, highlighting the rich storytelling in Romanian cinema.",
+      "userId": 4,
+      "date": "2019-02-27T23:57:19.248Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "cry": 0,
+        "heart": 2
+      }
+    },
+    {
+      "id": "21",
+      "title": "Excepțional Muzical: MTV Europe Music Awards 2024 Aduce În Prim-Plan Talente Internaționale",
+      "body": "MTV Europe Music Awards 2024 celebrează excelența muzicală internațională, evidențiind artiști și piese care au impresionat publicul global.",
+      "userId": 1,
+      "date": "2023-11-02T20:00:00.000Z"
+    },
+    {
+      "id": "22",
+      "title": "Spectacol Muzical: Moment Echilibrat la Premiile Billboard Music 2023",
+      "body": "Premiile Billboard Music 2023 impresionează cu performanțe spectaculoase, onorând artiști care au dominat clasamentele muzicale.",
+      "userId": 3,
+      "date": "2023-05-18T15:30:00.000Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 1,
+        "cry": 0,
+        "heart": 2
+      }
+    },
+    {
+      "id": "23",
+      "title": "Industria Cinematografică Românească Strălucește la Premiile Gopo 2023",
+      "body": "Premiile Gopo 2023 aduc laude industriei cinematografice românești, evidențiind filme și talente remarcabile.",
+      "userId": 4,
+      "date": "2022-12-10T18:45:00.000Z"
+    },
+    {
+      "id": "24",
+      "title": "Awards: Recognition for Romanian Artists at International Art Exhibition",
+      "body": "Romanian artists receive well-deserved recognition at an international art exhibition, showcasing the country's vibrant artistic scene.",
+      "userId": 8,
+      "date": "2021-06-17T00:09:19.248Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 3,
+        "cry": 0,
+        "heart": 0
+      }
+    },
+    {
+      "id": "25",
+      "title": "Diversitate Melodică la Concursul Muzical Eurovision 2024",
+      "body": "Concursul Muzical Eurovision 2024 aduce în față melodii diverse și artiști talentați, creând un spectacol captivant.",
+      "userId": 7,
+      "date": "2023-05-08T22:20:00.000Z"
+    },
+    {
+      "id": "26",
+      "title": "Recunoaștere în Artele Spectacolului: Premiile Radar de Teatru 2023",
+      "body": "Premiile Radar de Teatru 2023 aduc recunoaștere pentru excelența artistică în lumea teatrului, aplaudând contribuțiile notabile ale actorilor și regizorilor.",
+      "userId": 2,
+      "date": "2023-07-30T17:00:00.000Z",
+      "reactions": {
+        "thumbsUp": 2,
+        "wow": 0,
+        "cry": 2,
+        "heart": 3
+      }
+    },
+    {
+      "id": "27",
+      "title": "Country Harmony: CMA Awards 2024 Showcases Stellar Performances",
+      "body": "The CMA Awards 2024 celebrate the best in country music, featuring outstanding performances and recognizing the genre's brightest stars.",
+      "userId": 10,
+      "date": "2024-02-01T16:58:58.005Z",
+      "reactions": {
+        "thumbsUp": 1,
+        "wow": 0,
+        "cry": 0,
+        "heart": 1
+      }
+    },
+    {
+      "id": "28",
+      "title": "Scripted Brilliance: Screenwriters Guild Awards 2023 Recognize Literary Excellence",
+      "body": "The Screenwriters Guild Awards 2023 applaud the brilliance of scriptwriters, honoring literary excellence and storytelling mastery.",
+      "userId": 5,
+      "date": "2023-03-28T16:10:00.000Z"
+    },
+    {
+      "id": "29",
+      "title": "Sabor Latino: Latin Grammy Awards 2024 Highlights Vibrant Musical Talents",
+      "body": "The Latin Grammy Awards 2024 showcase the richness of Latin music, putting vibrant sounds and talented artists in the spotlight.",
+      "userId": 9,
+      "date": "2024-01-05T21:30:00.000Z"
+    },
+    {
+      "id": "30",
+      "title": "Awards Season Spectacle: Unforgettable Moments from 2023",
+      "body": "A look back at the highlights of the 2023 awards season, capturing the unforgettable moments that defined excellence in entertainment.",
+      "userId": 8,
+      "date": "2023-12-20T12:00:00.000Z",
+      "reactions": {
+        "thumbsUp": 2,
+        "wow": 0,
+        "cry": 2,
+        "heart": 2
+      }
+    },
+    {
+      "id": "9f25",
+      "title": "test",
+      "body": "test",
+      "userId": 10,
+      "date": "2024-02-01T13:02:08.698Z",
+      "reactions": {
+        "thumbsUp": 1,
+        "wow": 0,
+        "cry": 3,
+        "heart": 1
+      }
+    },
+    {
+      "id": "8c96",
+      "title": "Test2",
+      "body": "sssss",
+      "userId": 7,
+      "date": "2024-02-01T17:09:52.995Z",
+      "reactions": {
+        "thumbsUp": 3,
+        "wow": 0,
+        "cry": 2,
+        "heart": 2
+      }
+    }
+  ]
+}
